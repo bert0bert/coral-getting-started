@@ -1,2 +1,2 @@
-0 Human
-1 No_human
+0 Positive
+1 Negative
